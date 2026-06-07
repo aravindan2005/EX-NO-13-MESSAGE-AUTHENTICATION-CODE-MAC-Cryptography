@@ -1,5 +1,6 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
-
+## NAME: ARAVINDAN T
+## REG NO: 2305001003
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
 
@@ -25,7 +26,7 @@ To implement MESSAGE AUTHENTICATION CODE(MAC)
 5. Security: The security of the MAC relies on the secret key \( K \) and the strength of the hash function \( H \), ensuring that an attacker cannot forge a valid MAC without knowledge of the key.
 
 ## Program:
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -78,6 +79,8 @@ int main() {
 ```
 
 ## Output:
+
+<img width="887" height="180" alt="image" src="https://github.com/user-attachments/assets/250a0a90-9c5e-4b78-956b-c3cfbd58beef" />
 
 
 ## Result:
